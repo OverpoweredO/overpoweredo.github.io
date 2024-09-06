@@ -1,0 +1,133 @@
+#main-content {
+    background-color: whitesmoke;
+    font-family: helvetica, Arial, Helvetica, sans-serif;
+    margin: auto;
+    font-size: 1vw;
+    text-align: justify;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo {
+    margin: 0px;
+    padding: 10px;
+    font-family: "Fredoka One", sans-serif;
+    width: 35vh;
+    border-radius: 10%;
+}
+
+ul {
+    margin: 0px;
+}
+
+#nav-ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+
+#nav-ul > li {
+    padding: 10px;
+    margin: 16px;
+    
+}
+
+body > footer{
+    background-color: orange;
+    padding: 3px;
+}
+
+body > header{
+    background-color: orange;
+    padding: 3px;
+    color: white;
+    height: 12vh;
+    align-items: center;
+}
+
+#main-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+body > header > nav > ul > a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton { 
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid whitesmoke;
+    border-radius: 10%;
+}
+
+body > main > article {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+
+}
+
+#main-content-aside {
+    width: 30%;
+    margin: 3%;
+    justify-content: space-evenly;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+#article-header{
+    color: black;
+}
+
+#article-footer {
+    color: black;
+}
+
+#Newsletter {
+    color: black;
+}
+
+#body-footer {
+    display: flex;
+}
+
+#body-footer-nav-ul {
+    padding: 8px;
+    border: 1px solid whitesmoke;
+    border-radius: 10%;
+    display: flex;
+}
+
+#body-footer-nav-ul > div > li { 
+    margin: 12px;
+    list-style: none;
+    color: white;
+
+}
+
+#Peaceful-piano-playlist {
+    padding: 8px;
+}
+
+#twitter-embedding {
+    padding: 8px;
+}
+
+form { 
+    text-align: center;
+}
+
+h2 { 
+    text-align: center;
+    color: white;
+}
+
+img { 
+    border-radius: 10%;
+}
